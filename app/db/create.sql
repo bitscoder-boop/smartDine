@@ -1,0 +1,2 @@
+CREATE DATABASE sm@rtd1n0_dev;
+CREATE DATABASE sm@rtd1n0_test;
